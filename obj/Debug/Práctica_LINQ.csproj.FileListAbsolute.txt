@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Práctica_LINQ\bin\Debug\Práctica_LINQ.exe.config
+C:\Users\PC\source\repos\Práctica_LINQ\bin\Debug\Práctica_LINQ.exe
+C:\Users\PC\source\repos\Práctica_LINQ\bin\Debug\Práctica_LINQ.pdb
+C:\Users\PC\source\repos\Práctica_LINQ\obj\Debug\Práctica_LINQ.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Práctica_LINQ\obj\Debug\Práctica_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Práctica_LINQ\obj\Debug\Práctica_LINQ.exe
+C:\Users\PC\source\repos\Práctica_LINQ\obj\Debug\Práctica_LINQ.pdb
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\Práctica_LINQ\bin\Debug\Práctica_LINQ.exe.config
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\Práctica_LINQ\bin\Debug\Práctica_LINQ.exe
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\Práctica_LINQ\bin\Debug\Práctica_LINQ.pdb
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\Práctica_LINQ\obj\Debug\Práctica_LINQ.csproj.AssemblyReference.cache
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\Práctica_LINQ\obj\Debug\Práctica_LINQ.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\Práctica_LINQ\obj\Debug\Práctica_LINQ.csproj.CoreCompileInputs.cache
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\Práctica_LINQ\obj\Debug\Práctica_LINQ.exe
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\Práctica_LINQ\obj\Debug\Práctica_LINQ.pdb
